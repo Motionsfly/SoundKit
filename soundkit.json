@@ -1,0 +1,14 @@
+{
+  "name": "SoundKit - Motionsfly",
+  "latest": "1.4.0",
+  "date": "2026-10-08",
+  "title": "Yahan ek line mein likho kya naya hai",
+  "notes": [
+    "Pehla change",
+    "Doosra change"
+  ],
+  "message": "",
+  "download": "https://officialmotionsfly.gumroad.com/",
+  "critical": false,
+  "minSupported": "1.0.0"
+}
